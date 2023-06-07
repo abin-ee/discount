@@ -1,0 +1,45 @@
+.image-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+h3 {
+    color: rgb(163, 163, 163) !important;
+}
+
+.label-data-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 8px !important;
+}
+
+.overview-header {
+    margin: 1.5rem;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold{
+    font-weight: 500;
+}
+
+.overview-header-edit {
+    color: #14CBE1;
+    cursor: pointer;
+}
+
+.overview-middle {
+    background-color: #ddeff1;
+    padding: 1.5rem;
+}
+
+.overview-footer{
+    margin-top: 2rem;
+    background-color: #ddeff1;
+    padding: 1.5rem;
+}

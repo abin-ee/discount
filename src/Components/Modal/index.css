@@ -1,0 +1,17 @@
+.ant-modal-content {
+  min-height: 300px;
+  min-width: 900px;
+  display: flex;
+  border-radius: 0 !important;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.delete-modal {
+  min-height: 300px !important;
+}
+
+.ant-modal-wrap {
+  border-radius: 0 !important;
+  margin-right: 28rem;
+}

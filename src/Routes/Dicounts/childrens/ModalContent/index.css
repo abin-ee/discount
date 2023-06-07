@@ -1,0 +1,60 @@
+.row-reverse {
+    flex-direction: row-reverse
+}
+
+.ant-checkbox-inner {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    border-radius: 30px !important;
+    height: 20px !important;
+    width: 20px !important;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner:after {
+    border-color: #14CBE1 !important;
+}
+
+.ant-checkbox-wrapper {
+    background: #acacac;
+    padding: 29px;
+    border-radius: 21px;
+}
+
+.checkbox-label {
+    font-size: 17px !important;
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+.selected {
+    background: #14CBE1
+}
+
+.modal-content-label {
+    color: rgb(43, 43, 43);
+}
+
+.margin-top {
+    margin-top: 2rem !important;
+}
+
+.form-control {
+    border-radius: 0 !important;
+    min-height: 50px !important;
+}
+
+.ant-select-selector {
+    min-width: 60px !important;
+    min-height: 50px !important;
+    border-radius: 0 !important;
+    background-color: #747474 !important;
+    color: white !important;
+}
+
+.ant-select-selection-item{
+    margin-top: 9px !important;
+}
+
+.dropdown-toggle {
+    min-height: 50px !important;
+}

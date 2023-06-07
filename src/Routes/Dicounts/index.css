@@ -1,0 +1,57 @@
+.content-section {
+    display: flex;
+    margin: 2rem 0 0 12rem;
+}
+
+.left-section {
+    min-width: 65%;
+    background-color: white;
+    min-height: 700px;
+}
+
+.button-section {
+    margin-left: 12rem;
+    margin-top: 4rem;
+}
+
+.btn-secondary {
+    border-radius: 0% !important;
+    height: 50px;
+}
+
+.right-section {
+    display: flex;
+    flex-direction: column;
+    min-width: 23%;
+    background-color: white;
+    margin-left: 2rem;
+    max-height: 500px !important;
+}
+
+.modal-footer {
+    padding: 1rem !important;
+    display: flex;
+}
+
+.margin-right {
+    margin-right: 30px !important;
+}
+
+.display-content {
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.modal-title-label {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: bold !important;
+    color: rgb(49, 49, 49);
+    font-size: 25px !important;
+    border-bottom: 1px solid rgb(224, 224, 224);
+}
+
+.delete-content{
+    font-size: 17px;
+    color: rgb(87, 86, 86);
+}
